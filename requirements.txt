@@ -1,0 +1,6 @@
+tensorflow
+opencv-python
+numpy
+tensorflow
+keras
+-e git://github.com/fizyr/keras-retinanet.git@b5c8fd26576c8876438971f89e90fc4b392598a2#egg=keras-retinanet
