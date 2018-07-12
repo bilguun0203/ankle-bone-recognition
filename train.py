@@ -18,7 +18,7 @@ classes_path = 'ankle_bones_dataset/classes.csv'
 validations_path = 'ankle_bones_dataset/validations.csv'
 evaluation = True
 # Хэрэв сургалтаа үргэлжлүүлэх бол snapshot-ын утганд сүүлийн сургалтын файлыг зааж өгнө
-snapshot = None
+snapshot = './snapshots/resnet50_csv_03.h5'
 # Snapshot хадгалах эсэх, хадгалах хавтас
 snapshots = True
 snapshot_path = './snapshots'
@@ -141,7 +141,7 @@ callbacks.append(keras.callbacks.ReduceLROnPlateau(
     min_lr=0
 ))
 
-epochs = 10
+epochs = 30
 steps = 1000
 
 # start training
