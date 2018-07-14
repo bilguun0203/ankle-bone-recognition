@@ -15,6 +15,6 @@
 
 ## Татах файлууд
 
-Dataset: [Зургууд - Google Drive](https://goo.gl/Uq856R)
+Dataset: [Google Drive (Зургууд)](https://goo.gl/Uq856R)
 
-Сургасан модель: [Google Drive](#) - Тун удахгүй
+Сургасан модель: [Google Drive](https://goo.gl/cYiXno)
