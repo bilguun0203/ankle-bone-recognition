@@ -8,13 +8,13 @@
 
 ## Сургах
 
-1. `pip install -r requirements.txt` шаардлагатай сунгуудыг суулгана.
+1. `pip install -r requirements.txt` шаардлагатай сангуудыг суулгана.
 2. Jupyter notebook ашиглах бол `$ jupyter notebook` jupyter дэвтрийн серверийг асаана.
 3. Jupyter дэвтэр ашиглах бол `abr_train.ipynb` дэвтрийг ашиглан шинэ модель сургана. Хэрэв дэвтэр ашиглахгүй бол `train.py` файлыг ашиглана.
 4. `abr_train.ipynb` эсвэл `train.py` доторх параметруудыг сургалтандаа тохируулан өөрчилж сургалтаа эхэлнэ.
 
 ## Татах файлууд
 
-Dataset: [Зургууд - Google Drive](https://goo.gl/Uq856R)
+Dataset: [Google Drive (Зургууд)](https://goo.gl/Uq856R)
 
-Сургасан модель: [Google Drive](#) - Тун удахгүй
+Сургасан модель: [Google Drive](https://goo.gl/cYiXno)
