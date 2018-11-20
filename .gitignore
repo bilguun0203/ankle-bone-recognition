@@ -2,3 +2,6 @@
 venv/
 snapshots/
 logs/
+.ipynb_checkpoints/
+*.h5
+src/
