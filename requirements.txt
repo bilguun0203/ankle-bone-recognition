@@ -1,7 +1,7 @@
 opencv-python
 numpy
 matplotlib
-tensorflow-gpu
+tensorflow
 keras
 cython
 jupyter
