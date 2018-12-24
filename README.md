@@ -2,7 +2,7 @@
 
 ## Ашиглах
 
-1. `pip install -r requirements.txt` шаардлагатай сунгуудыг суулгана.
+1. `pip install -r requirements.txt` шаардлагатай сунгуудыг суулгана. (GPU ашиглах бол `tensorflow`-г `tensorflow-gpu` болгон өөрчлөөрэй)
 2. `$ jupyter notebook` jupyter дэвтрийн серверийг асаана.
 3. `abr_test.ipynb` руу орж сургасан модель болгон шалгах зургуудын байршлыг тохируулан ажиллуулна.
 
