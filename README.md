@@ -22,6 +22,9 @@
 
 ## Татах файлууд
 
-Dataset: [Google Drive (Зургууд)](https://goo.gl/Uq856R), тэмдэглэгээг `ankle_bones_dataset/annotations.json`-с авна уу.
+Dataset: [Hugging Face](https://huggingface.co/datasets/bilguun/shagai)
+(Raw: [Google Drive (Зургууд)](https://goo.gl/Uq856R), тэмдэглэгээг `ankle_bones_dataset/annotations.json`-с авна уу.)
 
 Сургасан модель: [Google Drive](https://goo.gl/cYiXno)
+
+Тайлан: [Google Drive](https://drive.google.com/file/d/1EisMI_l8QjH7fdeNNW0KtFUrMStzM_aG/view?usp=sharing)
