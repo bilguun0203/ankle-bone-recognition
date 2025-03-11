@@ -20,7 +20,7 @@
 3. Jupyter дэвтэр ашиглах бол `abr_train.ipynb` дэвтрийг ашиглан шинэ модель сургана. Хэрэв дэвтэр ашиглахгүй бол `train.py` файлыг ашиглана.
 4. `abr_train.ipynb` эсвэл `train.py` доторх параметруудыг сургалтандаа тохируулан өөрчилж сургалтаа эхэлнэ.
 
-## Татах файлууд
+## Хэрэгцээт файлууд
 
 Dataset: [Hugging Face](https://huggingface.co/datasets/bilguun/shagai)
 (Raw: [Google Drive (Зургууд)](https://goo.gl/Uq856R), тэмдэглэгээг `ankle_bones_dataset/annotations.json`-с авна уу.)
@@ -28,3 +28,19 @@ Dataset: [Hugging Face](https://huggingface.co/datasets/bilguun/shagai)
 Сургасан модель: [Google Drive](https://goo.gl/cYiXno)
 
 Тайлан: [Google Drive](https://drive.google.com/file/d/1EisMI_l8QjH7fdeNNW0KtFUrMStzM_aG/view?usp=sharing)
+
+## Credits
+
+This dataset was created with contributions from Amarsaikhan Batjargal, Bandikhuu Baasanjav, and Bilguun Ochirbat, students of the National University of Mongolia.
+
+## Citation
+
+```bibtex
+@misc{shagai2018,
+  author = {Ochirbat, Bilguun and Batjargal, Amarsaikhan and Baasanjav, Bandikhuu},
+  title = {{Detect the shape of shagai using RetinaNet}},
+  howpublished = {\url{https://github.com/bilguun0203/ankle-bone-recognition}},
+  year = {2018},
+  month = {July}
+}
+```
