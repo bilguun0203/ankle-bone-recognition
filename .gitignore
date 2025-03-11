@@ -5,3 +5,4 @@ logs/
 .ipynb_checkpoints/
 *.h5
 src/
+ankle_bones_dataset/**/images/*.jpg
